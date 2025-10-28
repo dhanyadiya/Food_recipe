@@ -1,4 +1,4 @@
-![Uploading Frame 1.jpg…]()
+
 # Cookify 
 A React-based food recipe web application powered by [TheMealDB API](https://www.themealdb.com/api.php).  
 Cookify helps users explore thousands of meal ideas, view cooking instructions, and discover recipes based on ingredients.
