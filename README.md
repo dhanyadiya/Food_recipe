@@ -1,3 +1,4 @@
+![Uploading Frame 1.jpg…]()
 # Cookify 
 A React-based food recipe web application powered by [TheMealDB API](https://www.themealdb.com/api.php).  
 Cookify helps users explore thousands of meal ideas, view cooking instructions, and discover recipes based on ingredients.
@@ -5,7 +6,7 @@ Cookify helps users explore thousands of meal ideas, view cooking instructions, 
 ---
 
 ## Features
-- **Search recipes** by ingredient, meal name, or category  
+- **Search recipes** by ingredient. 
 - **View detailed recipe instructions** including ingredients and measurements  
 - **Click on meal images** to get step-by-step cooking details  
 - **Fully responsive design** for desktop and mobile devices  
@@ -38,7 +39,7 @@ Try the live version of the app here:
 ## Installation & Setup
 Follow these steps to run the project locally:
 ```bash
-git clone https://github.com/yourusername/cookify.git
+git clone https://github.com/dhanyadiya/Food_recipe.git
 cd cookify
 npm install
 npm start
