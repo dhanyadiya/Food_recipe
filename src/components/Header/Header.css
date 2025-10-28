@@ -1,0 +1,142 @@
+/* Base styles */
+@import url('https://fonts.googleapis.com/css2?family=Lily+Script+One&family=Poppins:wght@400;600&display=swap');
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  gap: 70px;
+  flex-wrap: wrap;
+  text-align: center;
+  padding: 20px 80px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.3s ease;
+ 
+     
+}
+
+.header:hover {
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.12);
+}
+
+/* Left Section */
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+  flex-wrap: wrap;
+}
+
+.logo {
+  height: 90px;
+  max-width: 100%;
+  margin-left: -200px;
+  margin-bottom: -25px;
+}
+
+.tagline {
+  font-family: 'Lily Script One', cursive;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 100%;
+  padding-left: 50px;
+  padding-top: 5px;
+  color: #222;
+}
+
+/* Social Icons */
+.social-icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-left: 20px;
+}
+
+.social-icons a {
+  color: #000;
+  font-size: 22px;
+  transition: all 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #ffb703;
+  transform: scale(1.1);
+}
+
+/* Right Section (Location + Email) */
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.info-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 15px;
+  color: #333;
+  font-weight: 500;
+}
+
+.info-icon {
+  font-size: 20px;
+  color: #ffb703;
+}
+
+/* ============================= */
+/* Responsive for Mobile View */
+/* ============================= */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+    padding: 15px 20px;
+  }
+
+  .header-left {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo {
+    height: 60px;
+    margin: 0;
+  }
+
+  .tagline {
+    font-size: 16px;
+    padding: 0;
+  }
+
+  .social-icons {
+    margin: 10px 0;
+    gap: 10px;
+  }
+
+  .social-icons a {
+    font-size: 18px;
+  }
+
+  .header-right {
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .info-item {
+    font-size: 14px;
+  }
+
+  .info-icon {
+    font-size: 18px;
+  }
+}
