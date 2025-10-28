@@ -23,7 +23,7 @@ This project was built with guidance and assistance from ChatGPT for planning, U
 
 ## Live Demo
 Try the live version of the app here:  
-👉 https://mp2xqz-3000.csb.app/getrecipe
+👉 https://mp2xqz-3000.csb.app/
 
 ---
 ## Technologies Used
