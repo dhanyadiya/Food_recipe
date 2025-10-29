@@ -28,6 +28,9 @@ Live Demo in Codesandbax👉https://codesandbox.io/p/github/dhanyadiya/Food_reci
 Preview👉 https://mp2xqz-3000.csb.app/
 
 ---
+## 🗒 Notes
+For detailed notes and explanation, see [Food_recipe.pdf](./Food_recipe.pdf)
+---
 ## Technologies Used
     React.js
 
