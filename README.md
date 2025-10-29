@@ -18,13 +18,14 @@ Cookify helps users explore thousands of meal ideas, view cooking instructions, 
 ## AI Collaboration
 This project was built with guidance and assistance from ChatGPT for planning, UI design, and API integration.
 
-**ChatGPT Discussion:** https://chatgpt.com/share/6900d8ef-dbf4-8013-adf4-3b40027f426b
+**ChatGPT Discussion:** https://chatgpt.com/share/6901cb93-0968-8013-9271-fa5ac9fb5859
 
 ---
 
 ## Live Demo
 Try the live version of the app here:  
-👉 https://mp2xqz-3000.csb.app/
+Live Demo in Codesandbax👉https://codesandbox.io/p/github/dhanyadiya/Food_recipe/main?embed=1
+Prerevie👉 https://mp2xqz-3000.csb.app/
 
 ---
 ## Technologies Used
