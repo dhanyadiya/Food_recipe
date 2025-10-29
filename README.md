@@ -25,7 +25,7 @@ This project was built with guidance and assistance from ChatGPT for planning, U
 ## Live Demo
 Try the live version of the app here:  
 Live Demo in Codesandbax👉https://codesandbox.io/p/github/dhanyadiya/Food_recipe/main?embed=1
-Prerevie👉 https://mp2xqz-3000.csb.app/
+Preview👉 https://mp2xqz-3000.csb.app/
 
 ---
 ## Technologies Used
